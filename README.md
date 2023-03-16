@@ -1,0 +1,1 @@
+This project aims to analyse the correlations between different health parameters provided in the dataset.The correlations are tobehighlighted using appropriate graphs and finally depicted onto a dashboard for convenient viewing.
